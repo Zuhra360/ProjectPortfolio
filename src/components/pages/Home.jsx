@@ -1,6 +1,6 @@
 
 import { Navbar } from '../ui/Navbar/Navbar'
-import { HomePage } from '../ui/HomePage/homePage'
+import { HomePage } from '../ui/HomePage/HomePage'
 import { Footer } from '../ui/Footer/Footer'
 import { AboutMe } from '../ui/AboutMe/AboutMe'
 import { Services } from '../ui/Services/Services'
